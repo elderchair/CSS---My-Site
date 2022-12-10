@@ -1,3 +1,33 @@
 body{
+    /* background-color: aliceblue; */
+    margin-top: 0;
+    margin-left: 0;
+    
+}
+div{
+    background-color: #E4F9F5;
+}
+.h1 {
+    margin-top: 0;
+}
+.top{
+    border: solid 10px;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
     background-color: aqua;
+}
+.middle{
+    margin-left: 260px;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    background-color: red;
+}
+.bottom{
+    margin-left: 500px;
+    border: solid 10px;
+    height: 200px;
+    width: 200px;
+    background-color: green;
 }
